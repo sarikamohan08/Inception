@@ -1,2 +1,2 @@
-# Inception-
+# Inception
 GoogLeNet
